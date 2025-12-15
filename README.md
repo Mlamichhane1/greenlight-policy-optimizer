@@ -1,6 +1,6 @@
 # Greenlight: Policy Choice Optimizer
 
-A Streamlit app that ranks policy/project options using **Present Value of Expected Total Net Benefits** (PV(ETNB)) under **discounting + uncertainty**.
+A Streamlit app that ranks project options using **Present Value of Expected Total Net Benefits** (PV(ETNB)) under **discounting + uncertainty**.
 
 This project applies core Econ 351 ideas:
 - **Present Value (PV)** for a stream of net benefits  
